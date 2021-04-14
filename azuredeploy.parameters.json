@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "rgName": {
-      "value": "test"
+      "value": "uks-test-rg-1"
     },
     "rgLocation": {
-      "value": "[deployment().location]"
+      "value": "uksouth"
     }
   }
 }
